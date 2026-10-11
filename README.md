@@ -18,6 +18,8 @@ This paper investigates the consistency of throughput measurements in public 5G/
 
 **Status:** Accepted; publication forthcoming.
 
+📄 [Read the accepted paper and research details](https://github.com/saynakiani68/cellular-throughput-measurement-audit-)
+
 ### Network-Aware 5G/LTE Throughput Prediction
 
 A machine-learning project using real-world cellular network measurements to predict downlink throughput under changing network conditions.
