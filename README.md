@@ -1,84 +1,71 @@
 # Hi, I'm Sayna Kiani 👋
 
-### Artificial Intelligence Master's Student | Machine Learning & Network Intelligence
+### Master's Student in Artificial Intelligence | Machine Learning for Networked Systems
 
-I am a Master's student in **Artificial Intelligence for Connected Industries** at the **Universitat Politècnica de Catalunya (UPC)** in Barcelona, Spain.
+I'm pursuing a Master's degree in **Artificial Intelligence for Connected Industries** at **Universitat Politècnica de Catalunya (UPC)** in Barcelona, Spain.
 
-My current interests are focused on applying **Machine Learning and AI to communication networks**, particularly:
+My research interests lie at the intersection of **machine learning, wireless networks, and network measurement**. I'm particularly interested in understanding how models behave when network conditions change and how the quality and timing of real-world measurements affect predictive performance.
 
-- Machine Learning for 5G/6G networks
-- Network intelligence and optimization
-- Mobile network performance analysis
-- Time-series and network data analysis
-- AI-driven wireless systems
+## 🔬 Research & Publications
 
-I am currently building research-oriented projects to strengthen my experience in **AI for communication networks** and prepare for future research and PhD opportunities.
+### Accepted Paper — ACM CoNEXT 2026 Student Workshop
 
----
+**Before Learning from Cellular Traces: Auditing Throughput Semantics and Measurement Timing in a Public 5G/LTE Dataset**
 
-## 🔬 Featured Project
+*Accepted — ACM CoNEXT 2026 Student Workshop (CoNEXT-SW '26)*
+
+This paper investigates the consistency of throughput measurements in public 5G/LTE cellular traces. It examines the relationship between reported throughput and received-byte counts, identifies measurement discrepancies, and highlights the importance of validating data semantics before using network traces for machine learning.
+
+**Status:** Accepted; publication forthcoming.
 
 ### Network-Aware 5G/LTE Throughput Prediction
 
-Machine-learning analysis of smartphone downlink throughput using real-world **5G/LTE network KPIs**.
+A machine-learning project using real-world cellular network measurements to predict downlink throughput under changing network conditions.
 
-The project includes:
+**Key components:**
+- Temporal alignment of network measurements
+- Radio and mobility-related features
+- Session-aware walk-forward validation
+- Comparison of Linear Regression, Random Forest, XGBoost, and LightGBM
+- Analysis of prediction errors and changing network conditions
 
-- Temporal KPI alignment
-- 5G and LTE radio features
-- Handover-aware features
-- Walk-forward temporal validation
-- Distribution-shift analysis
-- Linear Regression
-- Random Forest
-- XGBoost
-- LightGBM
+🔗 [View project](https://github.com/saynakiani68/network-aware-5g-ml)
 
-🔗 [View the project](https://github.com/saynakiani68/network-aware-5g-ml)
+## 💻 Software Engineering & Java
 
----
+Alongside my research projects, I have worked on Java programming, software engineering exercises, and unit testing.
 
-## 🛠️ Technologies
+- Java programming and object-oriented design
+- JUnit testing
+- Software engineering coursework
 
-**Programming & Data**
+These projects are available in my GitHub repositories.
 
-Python · NumPy · Pandas · Matplotlib · JupyterLab
+## 🛠️ Technical Skills
 
-**Machine Learning**
+**Programming:** Python, Java, SQL
 
-Scikit-learn · Random Forest · XGBoost · LightGBM
+**Data Analysis:** Pandas, NumPy, Matplotlib, Jupyter
 
-**Networking**
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Random Forest
 
-5G · LTE · Wireless Networks · Network KPIs · Mobility Analysis
+**Networking:** 5G/LTE, Wireless Networks, Network KPIs, Mobility Analysis
 
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Network Science
-- Mobile Communications
-- Optimization
-- AI for Communication Networks
-
----
+**Research Methods:** Temporal Validation, Feature Engineering, Measurement Auditing, Performance Evaluation
 
 ## 🎯 Research Interests
 
-I am particularly interested in research at the intersection of:
+- Machine learning for wireless and mobile networks
+- Reliable prediction under changing network conditions
+- Time-series analysis and temporal validation
+- Network measurement and data quality
+- Intelligent and adaptive networked systems
 
-**Artificial Intelligence × Wireless Networks × Mobile Systems**
+## 📫 Connect
 
-with a long-term interest in intelligent and adaptive **5G/6G communication systems**.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [saynakiani68](https://github.com/saynakiani68)
-- LinkedIn:[Sayna Kiani](https://www.linkedin.com/in/sayna-kiani-338095391)
+- [GitHub](https://github.com/saynakiani68)
+- [LinkedIn](https://www.linkedin.com/in/sayna-kiani-338095391)
 
 ---
 
-*Open to research collaborations, internships, and PhD opportunities in AI, machine learning, and intelligent communication networks.*
+*Interested in research collaborations and funded PhD opportunities in machine learning, wireless networks, and intelligent networked systems.*
